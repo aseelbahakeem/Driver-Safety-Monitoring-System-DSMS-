@@ -11,7 +11,6 @@
 **Institution:** King Abdulaziz University  
 **Semester:** Summer 2024
 **Project Status:** In-progress
-
 ---
 
 ## Project Overview

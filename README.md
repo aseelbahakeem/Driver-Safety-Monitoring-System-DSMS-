@@ -65,7 +65,7 @@ Driving fatigue poses a significant public safety threat:
 
 ### Training Performance
 
-![Training Curves]([results/image_13.png](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_13.png))
+![Training Curves](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_13.png)
 *Training reached 99.93% validation accuracy by epoch 3, early stopping at epoch 6*
 
 ---

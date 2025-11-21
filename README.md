@@ -10,6 +10,7 @@
 **Course:** COIT-415 Software Development Life Cycle  
 **Institution:** King Abdulaziz University  
 **Semester:** Summer 2024
+**Project Status:** In-progress
 
 ---
 

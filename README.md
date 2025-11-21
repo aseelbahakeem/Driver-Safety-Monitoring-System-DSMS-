@@ -58,8 +58,7 @@ Driving fatigue poses a significant public safety threat:
 - Grad-CAM visualization of learned features
 - External testing on out-of-distribution dashcam images
 - Baseline comparison with rule-based Eye Aspect Ratio (EAR)
-- Result: Revealed spurious correlations and catastrophic failure
-
+ 
 ---
 
 ## Key Results

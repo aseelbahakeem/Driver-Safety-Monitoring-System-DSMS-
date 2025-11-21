@@ -88,7 +88,7 @@ Grad-CAM reveals model focuses on head angle, forehead, and mostly not the eyes
 ![External Results](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_8.png)
 *Test 1: Ground truth = Drowsy | MobileNetV2 = Alert (wrong) | Baseline EAR = Drowsy (correct)*
 
-![External Test 2](images/image_9.png)
+![External Test 2](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_9.png)
 *Test 2: Ground truth: Alert | MobileNetV2: Alert | Baseline: Failed*
 
 ![External Test 3](images/image_10.png)

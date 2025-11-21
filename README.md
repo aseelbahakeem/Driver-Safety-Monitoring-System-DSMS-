@@ -13,8 +13,6 @@
 
 ## Project Overview
 
-This repository documents a **complete Software Development Life Cycle (SDLC) project** for a Driver Safety Monitoring System, encompassing:
-
 ### Phase 1: Analysis & Design
 - **System Requirements Analysis:** Functional and non-functional requirements specification
 - **UML Modeling:** Comprehensive system design using:

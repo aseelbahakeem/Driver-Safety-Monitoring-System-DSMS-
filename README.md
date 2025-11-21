@@ -91,7 +91,7 @@ Grad-CAM reveals model focuses on head angle, forehead, and mostly not the eyes
 ![External Test 2](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_9.png)
 *Test 2: Ground truth: Alert | MobileNetV2: Alert | Baseline: Failed*
 
-![External Test 3](images/image_10.png)
+![External Test 3](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_10.png)
 *Test 3: Ground truth: Alert | MobileNetV2: Alert | Baseline: Alert*
 
 ![External Test 4](images/image_11.png)

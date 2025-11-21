@@ -46,8 +46,8 @@ Driving fatigue poses a significant public safety threat:
 ## Methodology
 
 **Phase 1: Benchmark Evaluation**
-- Dataset: Driver Drowsiness Dataset (Kaggle) - 41,793 images
-- Data cleaning: Removed 69% duplicates → 12,823 unique images
+- Dataset: Driver Drowsiness Dataset (Kaggle) -> 41,793 images
+- Data cleaning: Removed 69% duplicates --> 12,823 unique images
 - Split: 70% train | 15% val | 15% test (stratified)
 - Model: MobileNetV2 with ImageNet transfer learning
 - Result: 99.93% validation accuracy, 100% test accuracy

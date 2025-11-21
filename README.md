@@ -32,8 +32,7 @@ This project follows a complete Software Development Life Cycle for a Driver Saf
 ---
 
 ## Problem Statement
-
-- Driving fatigue poses a significant public safety threat:
+Driving fatigue poses a significant public safety threat:
 - **25%** of road accidents caused by driver drowsiness
 - **4×** increased accident risk with mobile phone usage  
 - Chronic conditions significantly elevate accident likelihood

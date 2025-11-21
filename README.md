@@ -20,7 +20,7 @@ This project follows a complete Software Development Life Cycle for a Driver Saf
 ### Phase 1: Analysis & Design
 - System requirements specification (10 functional, 5 non-functional)
 - UML modeling: Class, Use Case, Sequence, and Activity diagrams
-- Full documentation (33 pages) available in `docs/`
+- Full documentation (33 pages) available in `plan, design and analysis/`
 
 ### Phase 2: Implementation & Critical Discovery
 - Drowsiness detection using MobileNetV2 transfer learning

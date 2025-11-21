@@ -80,7 +80,7 @@ Driving fatigue poses a significant public safety threat:
 ### Interpretability
 
 ![Grad-CAM Analysis](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_7.png)
-*Grad-CAM reveals model focuses on head angle, forehead, and mostly not the eyes*
+Grad-CAM reveals model focuses on head angle, forehead, and mostly not the eyes
 ---
 
 ### External Validation 

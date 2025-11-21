@@ -72,7 +72,7 @@ Driving fatigue poses a significant public safety threat:
 
 ### Test Set Performance
 
-![Test Confusion Matrix](results/image_6.png)
+![Test Confusion Matrix](https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-/blob/main/DriverSafetySystem/results/image_6.png)
 *MobileNetV2 achieved 100% test accuracy*
 
 ---

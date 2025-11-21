@@ -7,7 +7,7 @@
 ![Test Accuracy](https://img.shields.io/badge/Test%20Accuracy-100%25-brightgreen)
 ![External Accuracy](https://img.shields.io/badge/External%20Accuracy-60%25-orange)
 
-- **Course:** COIT-415 Software Development Life Cycle  
+- **Course:** COIT-415 
 - **Institution:** King Abdulaziz University  
 - **Semester:** Summer 2024
 - **Project Status:** In-progress

@@ -109,7 +109,7 @@ Grad-CAM reveals model focuses on head angle, forehead, and mostly not the eyes
 | Alert Precision | 100.0% | 100.0% | 0% |
 | Prediction Pattern | Balanced | **100% Alert** | Systematic bias |
 
-**Critical Finding:** Model predicted "Alert" for ALL 5 external images with >99% confidence, including clearly drowsy drivers with closed eyes.
+Model predicted "Alert" for ALL 5 external images with >99% confidence, including clearly drowsy drivers with closed eyes.
 
 ---
 
@@ -135,29 +135,6 @@ After discovering the spurious correlation problem, several approaches could add
 
 ### 3. PERCLOS Temporal Tracking (Implemented)
 - Rule-based EAR tracking over time (90 frames = 3 seconds). It is Proof-of-concept demonstrating interpretable alternative
----
-
-## Key Lessons
-
-### 1. Benchmark Performance ≠ Real-World Reliability
-Test accuracy dropped from 100% → 60% on external data. High performance on held-out test sets doesn't guarantee correct feature learning or real-world generalization.
-
-### 2. Interpretability Is Not Optional
-Without Grad-CAM, we would have deployed a model with 100% test accuracy that fails catastrophically in production. Interpretability analysis must be performed regardless of benchmark performance.
-
-### 3. Dataset Bias ≠ Overfitting
-```
-High train + High test + Catastrophic external = Dataset Bias
-```
-Standard splits prevent overfitting but NOT systematic biases shared across all data.
-
-### 4. External Validation Is Essential
-Standard ML: Dataset → Split → Train/Val/Test → Deploy  
-**Safety-Critical ML:** Dataset → Split → Train/Val/Test → Interpretability → External OOD Validation → Deploy
-
-### 5. Simple Methods Can Outperform Complex Models
-When deep learning learns spurious correlations, rule-based methods using correct features may be more reliable.
-
 ---
 
 ## Quick Start

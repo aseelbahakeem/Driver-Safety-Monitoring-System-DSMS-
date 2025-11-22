@@ -119,7 +119,7 @@ The dataset was collected under controlled conditions where spurious features we
 **Drowsy images:** Eyes closed + Head tilted + Specific lighting + Similar setup  
 **Alert images:** Eyes open + Head upright + Different lighting + Different setup
 
-Standard train/val/test split prevents overfitting but not dataset-wide systematic biases.
+- Standard train/val/test split prevents overfitting but not dataset-wide systematic biases.
 ---
 
 ## Alternative Solutions

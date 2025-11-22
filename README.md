@@ -11,6 +11,22 @@
 - **Project Status:** In-progress
 ---
 
+## Quick Start
+
+```bash
+# Clone and install
+git clone https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-.git
+cd driver-safety-system
+pip install -r requirements.txt
+
+# Download dataset
+import kagglehub
+path = kagglehub.dataset_download("ismailnasri20/driver-drowsiness-dataset-ddd")
+
+# Run notebook
+jupyter notebook notebooks/Driver_Safety_Monitoring_System.ipynb
+```
+---
 ## Project Overview
 
 This project follows a complete Software Development Life Cycle for a Driver Safety Monitoring System:
@@ -133,23 +149,7 @@ After discovering the spurious correlation problem, several approaches could add
 
 ### 3. PERCLOS Temporal Tracking (Implemented)
 - Rule-based EAR tracking over time (90 frames = 3 seconds). It is Proof-of-concept demonstrating interpretable alternative
----
 
-## Quick Start
-
-```bash
-# Clone and install
-git clone https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-.git
-cd driver-safety-system
-pip install -r requirements.txt
-
-# Download dataset
-import kagglehub
-path = kagglehub.dataset_download("ismailnasri20/driver-drowsiness-dataset-ddd")
-
-# Run notebook
-jupyter notebook notebooks/Driver_Safety_Monitoring_System.ipynb
-```
 ---
 
 ## Future Work

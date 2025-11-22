@@ -1,5 +1,5 @@
 # Driver Safety Monitoring System
-**A Complete SDLC Project
+A Complete SDLC Project
 
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 

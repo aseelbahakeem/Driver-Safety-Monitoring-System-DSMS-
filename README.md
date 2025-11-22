@@ -1,6 +1,6 @@
 # Driver Safety Monitoring System
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 ![Accuracy](https://img.shields.io/badge/Test%20Accuracy-+99%25-brightgreen)
 ![External Accuracy](https://img.shields.io/badge/External%20Accuracy-60%25-orange)

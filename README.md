@@ -154,8 +154,6 @@ jupyter notebook notebooks/Driver_Safety_Monitoring_System.ipynb
 ---
 
 ## Future Work
-
-**Immediate Priorities:**
 1. YOLOv8 integration for multi-task detection (eyes, phone, head pose)
 2. Diverse dataset collection (multiple cameras, lighting, angles)
 3. Hybrid system combining YOLOv8 + PERCLOS validation

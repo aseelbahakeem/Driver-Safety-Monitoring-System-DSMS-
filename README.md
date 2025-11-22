@@ -1,5 +1,4 @@
 # Driver Safety Monitoring System
-A Complete SDLC Project
 
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
@@ -141,7 +140,7 @@ After discovering the spurious correlation problem, several approaches could add
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/driver-safety-system.git
+git clone https://github.com/aseelbahakeem/Driver-Safety-Monitoring-System-DSMS-.git
 cd driver-safety-system
 pip install -r requirements.txt
 

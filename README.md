@@ -1,9 +1,8 @@
 # Driver Safety Monitoring System
 
-![Status](https://img.shields.io/badge/Status-Complete-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
-![Test Accuracy](https://img.shields.io/badge/Test%20Accuracy-100%25-brightgreen)
+![Accuracy](https://img.shields.io/badge/Test%20Accuracy-+99%25-brightgreen)
 ![External Accuracy](https://img.shields.io/badge/External%20Accuracy-60%25-orange)
 
 - **Course:** COIT-415 
